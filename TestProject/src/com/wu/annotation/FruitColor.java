@@ -15,7 +15,7 @@ import java.lang.annotation.Target;
 public @interface FruitColor {
 
     /*
-     * 颜色枚举
+     * 颜色
      */
     public enum Color {
         BLUE, RED, GREEN
